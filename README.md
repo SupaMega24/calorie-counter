@@ -1,5 +1,7 @@
 # My Calorie Counter
 
+Preview Live: https://mycaloriecounter.vercel.app/
+
 **Description**
 
 My Calorie Counter is a simple application designed to help users track their daily calorie intake and calculate whether they are meeting their goals. 
